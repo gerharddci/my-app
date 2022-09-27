@@ -26,7 +26,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/gerharddci/my-app",
+  "homepage": "https://gerharddci.github.io/my-app/",
   "browserslist": {
     "production": [
       ">0.2%",
